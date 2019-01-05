@@ -1,2 +1,2 @@
 FROM dockersamples/static-site
-WNV AUTHOR="Yamamoto"
+ENV AUTHOR="Yamamoto"
